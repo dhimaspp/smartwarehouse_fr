@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334021824041",
+    "project_id": "smartwarehouse-fr",
+    "storage_bucket": "smartwarehouse-fr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334021824041:android:8a4324672ebdd0abeb1638",
+        "android_client_info": {
+          "package_name": "com.example.smartwarehouse_fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334021824041-u81575h6mbob4ovpsi81kfeqejhiu05f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNb_Tc0RjjB3jstlQbMHCMFzpSS5ehTvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334021824041-u81575h6mbob4ovpsi81kfeqejhiu05f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
